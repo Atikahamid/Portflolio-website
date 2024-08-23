@@ -1,0 +1,32 @@
+[
+    {
+        "title": "HTML",
+        "imgSource": "images/html.png"
+    },
+    {
+        "title": "CSS",
+        "imgSource": "images/css.png"
+    },
+    {
+        "title": "ReactJs",
+        "imgSource": "images/react.png"
+    },
+    {
+        "title": "NodeJs",
+        "imgSource": "images/node.png"
+    },
+    {
+        "title": "MongoDB",
+        "imgSource": "images/mongodb.webp"
+    },
+    {
+        "title": "Python",
+        "imgSource": "images/python.png"
+    },
+    {
+        "title": "Java",
+        "imgSource": "images/java1.png"
+    }
+    
+    
+]

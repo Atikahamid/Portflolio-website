@@ -1,0 +1,26 @@
+[
+    {
+        "role":"Software Engineeres",
+        "organization":"Google",
+        "startDate":"Sept,2020",
+        "endDate":"Present",
+        "experience":["worked on google maps", "Reduced Load time"],
+        "imgSourc":"images/google.png"
+    },
+    {
+        "role":"Mern stack Developer",
+        "organization":"Microsoft",
+        "startDate":"Sept,2020",
+        "endDate":"Present",
+        "experience":["worked on React Js", "Node Js"],
+        "imgSourc":"images/microsoft.webp"
+    },
+    {
+        "role":"Frontend Developer",
+        "organization":"Netflix",
+        "startDate":"Sept,2020",
+        "endDate":"Present",
+        "experience":["worked on html css", "Reduced Load time"],
+        "imgSourc":"images/netflix.webp"
+    }
+]
