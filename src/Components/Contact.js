@@ -6,11 +6,11 @@ import { FaGithub } from "react-icons/fa6";
 export default function Contact() {
     return (
         <section className="contact_section row">
-            <div className="left_contact col-4">
+            <div className="left_contact col-xl-4 col-lg-10 col-md-10 col-sm-10">
                 <h1>Contact</h1>
                 <h3>Feel free to reach out!</h3>
             </div>
-            <div className="right_contact col-4">
+            <div className="right_contact col-xl-4 col-lg-10 col-md-10 col-sm-10">
                 <ul>
                     <li className="contact_link">
                         <IoMdMail className='contact_icon' />

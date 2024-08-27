@@ -1,5 +1,9 @@
 @import './style.css';
-
+.App{
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
 .nav{
   position: relative;
   display: flex;
@@ -247,19 +251,30 @@
 .container3{
   background: linear-gradient(-180deg, rgba(239, 169, 40, 0.94) 0%, rgb(81 65 35 / 94%) 139%);
   display: flex;
+  flex-direction: column;
   justify-content: space-evenly;
   margin-right: 0;
   padding-bottom: 3rem;
 }
-.card{
+.card1{
   background: linear-gradient(140deg, rgba(235, 195, 91, 0.95) 0%, rgb(119 93 27 / 95%) 100%);
   border: none;
   box-shadow: 0px 4px 17px 0px black;
   padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 17px;
+  max-width: 345px;
+}
+.main_card{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  margin-right: 0;
 }
 .card_img{
   padding: 15px 4px;
   border-radius: 29px;
+  width: 100%;
 }
 .pro_title{
   font-size: 28px;
@@ -294,6 +309,10 @@
 .btn1:hover{
   background: #b8b859;
 }
+.btn1 a{
+  text-decoration: none;
+  color: black;
+}
 
 /* contact */
 .contact_section{
@@ -302,6 +321,7 @@
   background-color: #403306;
   color: white;
   padding: 45px 12px;
+  margin-right: 0px;
 }
 .left_contact h3{
   font-size: 23px;
@@ -434,6 +454,10 @@
     filter: blur(100px);
     z-index: 0;
   }
+  .pro_title{
+    align-self: center;
+    padding: 19px 0px;
+  }
  
   /* about css */
   .container1{
@@ -486,6 +510,21 @@
   }
   .skill_img{
     background-color: #573b06;
+  }
+  .container3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .left_contact{
+    padding: 4px 1px 35px 49px;
+  }
+  .contact_icon{
+    font-size: 24px;
+  }
+  .contact_link a{
+    font-size: 18px;
   }
 }
 
