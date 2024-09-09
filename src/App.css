@@ -564,7 +564,12 @@
 }
 @media screen and (max-width: 421px){
   .thirdBlur{
-    left: 30vw ;
+    left: 18vw ;
+  }
+}
+@media screen and (max-width: 375px){
+  .topBlur{
+    left:7vw;
   }
 }
 @media screen and (max-width: 361px){
@@ -578,7 +583,7 @@
     left: 3vw;
   }
   .thirdBlur{
-    left: 30vw ;
+    left: 3vw ;
   }
 }
 
