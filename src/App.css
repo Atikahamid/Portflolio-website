@@ -580,11 +580,14 @@
       padding-right: 0px;
   }
   .topBlur{
-    left: 3vw;
+    left: 0vw;
   }
   .thirdBlur{
     left: 3vw ;
   }
+  .contact_link a {
+    font-size: 16px;
+}
 }
 
 
