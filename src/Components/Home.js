@@ -6,7 +6,7 @@ export default function Home() {
       <div className="section1  ">
         <p className='one_p'>Web Developer</p>
         <h1 className='heading_size'>Hello, My Name is Atika Hamid</h1>
-        <p className='two_p'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi amet placeat veniam, corrupti ut dignissimos esse aperiam delectus sed atque maxime aliquam magnam molestiae fugiat odio, aspernatur autem porro dolores.</p>
+        <p className='two_p'>I am passionate MERN stack Developer want to work with devotions, and enthusiassm. I can develope websites, web-app and many more using ReactJs, NodeJs, MongoDB, HTML, CSS, Bootstrap etc.</p>
         <div className="buttons">
           <button className="btn_front">Projects</button>
           <button className="btn2">Linkedin</button>
